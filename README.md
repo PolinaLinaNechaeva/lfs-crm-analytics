@@ -84,7 +84,7 @@ Creates projekt.xlsx with 4 sheets:
 • calls
 • contacts
 
-⸻
+------
 
 Exploratory Analysis (lfs_analysis.ipynb)
 
