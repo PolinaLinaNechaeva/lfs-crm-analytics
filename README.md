@@ -186,4 +186,4 @@ LinkedIn: https://www.linkedin.com/in/polina-nechaeva-b3a67a349/
 
 License
 
-MIT License.
+MIT License
